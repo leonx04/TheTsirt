@@ -27,7 +27,7 @@ Chúng tôi hoan nghênh mọi đóng góp cho Tshirt! Fork kho lưu trữ, th�
 
 ## 📞 Liên Hệ
 
-Để biết thêm thông tin và hỗ trợ, vui lòng truy cập trang GitHub của dự án: [https://github.com/Maidt04/Tshirt](https://github.com/Maidt04/Tshirt).
+Để biết thêm thông tin và hỗ trợ, vui lòng truy cập trang GitHub của dự án: [https://github.com/Maidt04/Tshirt](https://github.com/leonx04/TheTsirt).
 
 ## 🙏 Lời Cảm Ơn
 
